@@ -9,7 +9,7 @@ A modern Content Management System for creator teams, built as a demonstration o
 **Candidate:** Shashank R  
 **Submission Date:** December 29, 2024 
 **Git Hub:** https://github.com/shashank123r/Creator-Chart-CMS
-**Live Demo:** [View Live App](https://creator-chart.netlify.app)  
+**Live Demo:** [View Live App]((https://creator-chart-cms.netlify.app/))  
 ## 🎬 Watch the Demo Video
 [![Video Demo](https://www.loom.com/share/8b1064c6bef44b93a8d3900779a0b6c6)]
 ** Notion Link:** [View Notion](https://www.notion.so/Creator-Chart-CMS-Assignment-Submission-8b1064c6bef44b93a8d3900779a0b6c6)
