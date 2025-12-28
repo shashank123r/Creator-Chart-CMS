@@ -6,8 +6,7 @@ A modern Content Management System for creator teams, built as a demonstration o
 
 **Created for:** Creator Systems & AI Automation Specialist Intern Position  
 **Company:** Creator Chart  
-**Candidate:** Shashank R  
-**Submission Date:** December 29, 2024 
+**Candidate:** Shashank R   
 **Git Hub:** https://github.com/shashank123r/Creator-Chart-CMS
 
 **Live Demo:** https://creator-chart-cms.netlify.app
