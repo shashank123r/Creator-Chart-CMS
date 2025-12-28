@@ -2,7 +2,7 @@
 
 A modern Content Management System for creator teams, built as a demonstration of workflow automation and AI integration.
 
-## 📋 Assignment Submission
+##  Assignment Submission
 
 **Created for:** Creator Systems & AI Automation Specialist Intern Position  
 **Company:** Creator Chart  
@@ -24,7 +24,7 @@ This project demonstrates:
 
 ----
 
-## 🚀 What It Does
+##  What It Does
 
 Creator Chart CMS helps content teams manage their entire content lifecycle - from ideation to publication - with intelligent automation features:
 
@@ -47,11 +47,11 @@ Creator Chart CMS helps content teams manage their entire content lifecycle - fr
 
 ---
 
-### 📊 Automation Flowcharts
+###  Automation Flowcharts
 
 The system implements two AI-powered automations:
 
-![Automation Flowcharts](flowchart.png)
+(flowchart.png)
 
 **Automation 1: Content Analysis** - Triggered when content status changes to "Published"  
 **Automation 2: Creator Intake** - Triggered when a new creator submits the intake form
@@ -68,7 +68,7 @@ The system implements two AI-powered automations:
 | Vite | Build Tool |
 | Lucide React | Icons |
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 src/
@@ -90,7 +90,7 @@ src/
     └── helpers.ts          # Utility functions
 ```
 
-## ⚡ Quick Start
+##  Quick Start
 
 ### Prerequisites
 - Node.js 18+ 
@@ -118,7 +118,7 @@ npm run build
 npm run preview
 ```
 
-## 🎯 Demo Features
+##  Demo Features
 
 ### AI Content Analysis
 Click "Analyze with AI" on any published content to:
@@ -138,7 +138,7 @@ Toggle between light and dark themes using the sun/moon icon in the header.
 
 ---
 
-## 🎯 Assignment Criteria Alignment
+##  Assignment Criteria Alignment
 
 | Evaluation Criteria | Implementation | Evidence |
 |-------------------|----------------|----------|
@@ -154,7 +154,7 @@ Toggle between light and dark themes using the sun/moon icon in the header.
 
 ---
 
-## 📚 Documentation
+##  Documentation
 
 The **System Docs** view includes:
 - System Overview
@@ -166,26 +166,26 @@ The **System Docs** view includes:
 ## � Assignment Deliverables
 
 ### Task 1: System Design
-- ✅ **Process Map**: Interactive workflow in System Docs showing 5 stages with ownership
-- ✅ **Database Structure**: 3 databases (Content Pipeline, Team Members, Creators Intake) with detailed schema
-- ✅ **Multiple Views**: 6+ views including "Stuck Items" for bottleneck detection
-- ✅ **5 Scaling Improvements**: Detailed explanations for scaling from 3 to 15 people
+-  **Process Map**: Interactive workflow in System Docs showing 5 stages with ownership
+-  **Database Structure**: 3 databases (Content Pipeline, Team Members, Creators Intake) with detailed schema
+-  **Multiple Views**: 6+ views including "Stuck Items" for bottleneck detection
+-  **5 Scaling Improvements**: Detailed explanations for scaling from 3 to 15 people
 
 ### Task 2: Automation Implementation
-- ✅ **Automation 1 (Content Analysis)**: 
+-  **Automation 1 (Content Analysis)**: 
   - Trigger: Status changes to "Published"
   - AI generates summary + 3 title variations
   - Updates database automatically
   
-- ✅ **Automation 2 (Creator Intake)**:
+-  **Automation 2 (Creator Intake)**:
   - Form submission with validation
   - AI classifies: niche, platform focus, monetization stage
   - Generates 4-5 personalized recommendations
   
-- ✅ **Error Handling**: Form validation, loading states, retry logic
-- ✅ **Production Readiness**: Documentation of rate limiting, caching, and monitoring strategies
+-  **Error Handling**: Form validation, loading states, retry logic
+-  **Production Readiness**: Documentation of rate limiting, caching, and monitoring strategies
 
-## �🔮 Future Enhancements
+## Future Enhancements
 
 - Notion API integration for real data sync
 - n8n webhooks for workflow automation
@@ -195,7 +195,7 @@ The **System Docs** view includes:
 
 ---
 
-## 📎 Supporting Documents
+##  Supporting Documents
 
 This submission includes:
 
@@ -213,18 +213,18 @@ This submission includes:
 
 ---
 
-## 📧 Contact & Questions
+##  Contact & Questions
 
 **Shashank R**  
-📧 Email: shashankrajput1234@gmail.com  
-🔗 GitHub: [github.com/shashank123r](https://github.com/shashank123r)  
-💼 LinkedIn: [linkedin.com/in/shashankr](https://linkedin.com/in/shashankr)  
+ Email: shashankrajput1234@gmail.com  
+ GitHub: [github.com/shashank123r](https://github.com/shashank123r)  
+ LinkedIn: [linkedin.com/in/shashankr](https://linkedin.com/in/shashankr)  
 
 For questions about implementation details, technical decisions, or to discuss this project further, please reach out via email.
 
 ---
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 Built as part of the Creator Chart internship application process. This project demonstrates practical understanding of:
 - Content workflow management systems
@@ -238,4 +238,4 @@ Built as part of the Creator Chart internship application process. This project 
 ---
 
 *Submitted for: Creator Chart - Creator Systems & AI Automation Specialist Intern Position*  
-*Status: ✅ Complete*
+*Status:  Complete*
