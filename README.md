@@ -13,7 +13,7 @@ A modern Content Management System for creator teams, built as a demonstration o
 **Live Demo:** https://creator-chart-cms.netlify.app
 ## Watch the Demo Video
 https://www.loom.com/share/8b1064c6bef44b93a8d3900779a0b6c6
-** Notion Link:** https://www.notion.so/Creator-Chart-CMS-Assignment-Submission-8b1064c6bef44b93a8d3900779a0b6c6
+
 
 
 This project demonstrates:
